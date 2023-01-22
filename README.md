@@ -1,5 +1,5 @@
 <img align="center"
-width="100%" height="300"  src="https://img.freepik.com/premium-vector/programming-code-made-with-binary-code-coding-hacker-background-digital-binary-data-streaming-digital-code_127544-778.jpg?w=2000" alt="coder" />
+width="100%" height="400"  src="https://img.freepik.com/premium-vector/programming-code-made-with-binary-code-coding-hacker-background-digital-binary-data-streaming-digital-code_127544-778.jpg?w=2000" alt="coder" />
 <h1 align="center">Hi 👋, I'm Subham Char</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -17,7 +17,6 @@ width="100%" height="300"  src="https://img.freepik.com/premium-vector/programmi
 <p align="left">
 <a href="https://twitter.com/svarcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="svarcoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/subham-char/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subham-char/" height="30" width="40" /></a>
-<a href="https://medium.com/@svarcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@svarcoder" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/svarcoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="svarcoder/" height="30" width="40" /></a>
 </p>
 
