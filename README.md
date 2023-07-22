@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Subham Char</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💻&nbsp; 2.6+ years experience as Frontend Developer (Web3) with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs & Website wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining front-end performance and troubleshooting & debugging the same to bolster overall performance
+- 💻&nbsp; 3+ years experience as Frontend Developer (Web3) with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs & Website wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining front-end performance and troubleshooting & debugging the same to bolster overall performance
 
 - 🌱 I have a good knowlwdge on **React**, **Next**, **DeFi**, **Block Chain**
 
