@@ -8,7 +8,7 @@
 
 - 🌱 I have a good knowlwdge on **React**, **Next**, **DeFi**, **Block Chain**
 
-- 👨‍💻 All of my projects are available at [https://www.svarcoder.tech/](https://www.svarcoder.tech/)
+- 👨‍💻 All of my projects are available at [https://svarcoder.github.io/my-website/](https://svarcoder.github.io/my-website/)
 
 - 💬 Ask me about **JS, React, Redux, Blockchain, Web3.js, Ether.js**
 
