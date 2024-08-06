@@ -6,7 +6,7 @@
 
 - 💻&nbsp; 4+ years experience as Frontend Developer (Web3) with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs & Website wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining front-end performance and troubleshooting & debugging the same to bolster overall performance
 
-- 🌱 I have a good knowlwdge on **React**, **Next**, **DeFi**, **Block Chain**
+- 🌱 I have a good knowlwdge on **HTML & CSS**, **JavaScript**, **React**, **Next**, **Redux**, **Typescript**, **Sass**, **Styled Components**, **Node**, **Express**, **MongoDB**, **React Query**, **Bootstrap**, **Socket.io**, **Antd**,**Rest APIs**, **AWS**, **Git**, **Wordpress**, **Block Chain**
 
 - 👨‍💻 All of my projects are available at [https://svarcoder.github.io/my-website/](https://svarcoder.github.io/my-website/)
 
