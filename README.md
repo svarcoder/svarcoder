@@ -2,7 +2,7 @@
   <img height="350" width="800" src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_1280.png"  />
 </div>
 <h1 align="center">Hi 👋, I'm Subham Char</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 - 💻&nbsp; 4+ years experience as Frontend Developer (Web3) with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs & Website wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining front-end performance and troubleshooting & debugging the same to bolster overall performance
 
