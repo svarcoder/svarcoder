@@ -1,7 +1,7 @@
 <div align="center">
   <img height="350" width="800" src="https://res.cloudinary.com/ddj3h8flt/image/upload/v1740416768/DALL_E_2025-02-24_22.27.00_-_A_modern_GitHub_profile_banner_image_featuring_a_coding_landscape._The_scene_includes_a_futuristic_workspace_with_a_laptop_displaying_lines_of_code_s_yicawb.webp"  />
 </div>
-<h1 align="center">Hi 👋, I'm Subham Char</h1>
+<h1 align="center">I'm Subham Char</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 💻&nbsp; 4+ years experience as Frontend Developer (Web3) with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs & Website wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining front-end performance and troubleshooting & debugging the same to bolster overall performance
