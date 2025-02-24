@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" width="800" src="https://drive.google.com/file/d/1lyOUL9jnHm4Hcg9z9oRhbCS5_5zW2j1-/view?usp=drive_link"  />
+  <img height="350" width="800" src="https://res.cloudinary.com/ddj3h8flt/image/upload/v1740416768/DALL_E_2025-02-24_22.27.00_-_A_modern_GitHub_profile_banner_image_featuring_a_coding_landscape._The_scene_includes_a_futuristic_workspace_with_a_laptop_displaying_lines_of_code_s_yicawb.webp"  />
 </div>
 <h1 align="center">Hi 👋, I'm Subham Char</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
