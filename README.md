@@ -28,7 +28,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svarcoder&label=Profile%20views&color=0e75b6&style=flat" alt="svarcoder" /> </p>
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=svarcoder&show_icons=true&theme=radical&rank_icon=percentile" alt="svarcoder" /></p>
-<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svarcoder&show_icons=true&theme=radical&rank_icon=percentile" alt="svarcoder" /></p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svarcoder&langs_count=6&theme=radical" alt="svarcoder" /></p>
